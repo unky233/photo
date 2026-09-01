@@ -11,8 +11,7 @@
   },
   "members": [
     {
-      "id": "shogenji yoko",
-      "name": "正源司阳子"
+      "id": "shogenji yoko", "name": "正源司阳子"
     }
   ],
   "collections": [
@@ -21,9 +20,50 @@
       "name": "「ブルーベリー&ラズベリー」MV衣装",
       "items": [
         {
-          "id": "shogenji-head",
+          "id": "head",
           "member": "shogenji yoko",
-          "name": "正源司阳子-大头"
+          "name": "大头"
+        },
+        {
+          "id": "upper",
+          "member": "shogenji yoko",
+          "name": "上半身"
+        },
+        {
+          "id": "whole",
+          "member": "shogenji yoko",
+          "name": "全身"
+        },
+        {
+          "id": "sit",
+          "member": "shogenji yoko",
+          "name": "坐姿"
+        }
+      ]
+    },
+    {
+      "id": "「ブルーベリー&ラズベリー」MV制服",
+      "name": "「ブルーベリー&ラズベリー」MV制服",
+      "items": [
+        {
+          "id": "head",
+          "member": "shogenji yoko",
+          "name": "大头"
+        },
+        {
+          "id": "upper",
+          "member": "shogenji yoko",
+          "name": "上半身"
+        },
+        {
+          "id": "whole",
+          "member": "shogenji yoko",
+          "name": "全身"
+        },
+        {
+          "id": "sit",
+          "member": "shogenji yoko",
+          "name": "坐姿"
         }
       ]
     }
