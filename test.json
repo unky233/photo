@@ -1,0 +1,129 @@
+{
+  "magic": "my-ideals-template",
+  "version": 1,
+  "revision": 1,
+  "id": "Shogenji Yoko",
+  "name": "日向坂46 正源司阳子",
+  "imageResourceType": "baseUrl",
+  "imageBaseUrl": {
+    "root": "https://raw.githubusercontent.com/unky233/photo/main/Shogenji_Yoko",
+    "format": "png"
+  },
+  "members": [
+    {
+      "id": "shogenji yoko",
+      "name": "正源司阳子"
+    },
+    {
+      "id": "2023",
+      "name": "2023"
+    }
+  ],
+  "collections": [
+    {
+      "id": "「ブルーベリー&ラズベリー」MV衣装",
+      "name": "「ブルーベリー&ラズベリー」MV衣装",
+      "items": [
+        {
+          "id": "head",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    },
+    {
+      "id": "「ブルーベリー&ラズベリー」MV制服",
+      "name": "「ブルーベリー&ラズベリー」MV制服",
+      "items": [
+        {
+          "id": "head",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    },
+    {
+      "id": "8th制服",
+      "name": "8th制服",
+      "items": [
+        {
+          "id": "head",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    },
+    {
+      "id": "2023年 四期生振袖衣装",
+      "name": "2023年 四期生振袖衣装",
+      "items": [
+        {
+          "id": "head",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "shogenji yoko",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    }
+    }
+  ]
+}
