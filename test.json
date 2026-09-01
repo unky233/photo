@@ -6,13 +6,13 @@
   "name": "日向坂46 正源司阳子",
   "imageResourceType": "baseUrl",
   "imageBaseUrl": {
-    "root": "https://raw.githubusercontent.com/unky233/photo/blob/main",
+    "root": "https://raw.githubusercontent.com/unky233/photo/main/Shogenji_Yoko",
     "format": "webp"
   },
   "members": [
     {
-      "id": "noguchi-nanaka",
-      "name": "Ұ�� �ˡ��L"
+      "id": "shogenji yoko",
+      "name": "正源司阳子"
     }
   ],
   "collections": [
@@ -21,10 +21,9 @@
       "name": "「ブルーベリー&ラズベリー」MV衣装",
       "items": [
         {
-          "id": "nanaka-hiki",
-          "member": "noguchi-nanaka",
-          "name": "Ұ�ڲˡ��L �ҥ�",
-          "image": "https://raw.githubusercontent.com/monaka-ikonoi/my-ideals/refs/heads/main/public/sample/sample-image.webp"
+          "id": "大头",
+          "member": "shogenji yoko",
+          "name": "正源司阳子"
         }
       ]
     }
