@@ -7,7 +7,7 @@
   "imageResourceType": "baseUrl",
   "imageBaseUrl": {
     "root": "https://raw.githubusercontent.com/unky233/photo/main/Shogenji_Yoko",
-    "format": "webp"
+    "format": "png"
   },
   "members": [
     {
@@ -21,9 +21,9 @@
       "name": "「ブルーベリー&ラズベリー」MV衣装",
       "items": [
         {
-          "id": "大头",
+          "id": "shogenji-hiki",
           "member": "shogenji yoko",
-          "name": "正源司阳子"
+          "name": "正源司阳子-大头"
         }
       ]
     }
