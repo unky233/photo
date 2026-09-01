@@ -11,12 +11,12 @@
   },
   "members": [
     {
-      "id": "shogenji yoko",
-      "name": "正源司阳子"
-    },
-    {
       "id": "2023",
       "name": "2023"
+    },
+    {
+      "id": "2024",
+      "name": "2024"
     }
   ],
   "collections": [
@@ -26,22 +26,22 @@
       "items": [
         {
           "id": "head",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-大头"
         },
         {
           "id": "upper",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-上半身"
         },
         {
           "id": "whole",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-全身"
         },
         {
           "id": "sit",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-坐姿"
         }
       ]
@@ -52,22 +52,22 @@
       "items": [
         {
           "id": "head",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-大头"
         },
         {
           "id": "upper",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-上半身"
         },
         {
           "id": "whole",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-全身"
         },
         {
           "id": "sit",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-坐姿"
         }
       ]
@@ -78,22 +78,22 @@
       "items": [
         {
           "id": "head",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-大头"
         },
         {
           "id": "upper",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-上半身"
         },
         {
           "id": "whole",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-全身"
         },
         {
           "id": "sit",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-坐姿"
         }
       ]
@@ -104,22 +104,100 @@
       "items": [
         {
           "id": "head",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-大头"
         },
         {
           "id": "upper",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-上半身"
         },
         {
           "id": "whole",
-          "member": "shogenji yoko",
+          "member": "2023",
           "name": "正源司陽子-全身"
         },
         {
           "id": "sit",
-          "member": "shogenji yoko",
+          "member": "2023",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    },
+    {
+      "id": "9th制服",
+      "name": "9th制服",
+      "items": [
+        {
+          "id": "head",
+          "member": "2023",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "2023",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "2023",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "2023",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    },
+    {
+      "id": "オーディション制服",
+      "name": "オーディション制服",
+      "items": [
+        {
+          "id": "head",
+          "member": "2023",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "2023",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "2023",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "2023",
+          "name": "正源司陽子-坐姿"
+        }
+      ]
+    },
+    {
+      "id": "花柄コーデ",
+      "name": "花柄コーデ",
+      "items": [
+        {
+          "id": "head",
+          "member": "2023",
+          "name": "正源司陽子-大头"
+        },
+        {
+          "id": "upper",
+          "member": "2023",
+          "name": "正源司陽子-上半身"
+        },
+        {
+          "id": "whole",
+          "member": "2023",
+          "name": "正源司陽子-全身"
+        },
+        {
+          "id": "sit",
+          "member": "2023",
           "name": "正源司陽子-坐姿"
         }
       ]
