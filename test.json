@@ -2,24 +2,28 @@
   "magic": "my-ideals-template",
   "version": 1,
   "revision": 1,
-  "id": "equal-me",
-  "name": "=ME ��д��",
-  "imageResourceType": "inline",
+  "id": "Shogenji Yoko",
+  "name": "日向坂46 正源司阳子",
+  "imageResourceType": "baseUrl",
+  "imageBaseUrl": {
+    "root": "https://raw.githubusercontent.com/unky233/photo/blob/main",
+    "format": "webp"
+  },
   "members": [
     {
       "id": "noguchi-nanaka",
-      "name": "Ұ�� �ˡ��L"
+      "name": "Ұ�� �ˡ��L"
     }
   ],
   "collections": [
     {
-      "id": "2026-new-year",
-      "name": "2026���´�",
+      "id": "「ブルーベリー&ラズベリー」MV衣装",
+      "name": "「ブルーベリー&ラズベリー」MV衣装",
       "items": [
         {
           "id": "nanaka-hiki",
           "member": "noguchi-nanaka",
-          "name": "Ұ�ڲˡ��L �ҥ�",
+          "name": "Ұ�ڲˡ��L �ҥ�",
           "image": "https://raw.githubusercontent.com/monaka-ikonoi/my-ideals/refs/heads/main/public/sample/sample-image.webp"
         }
       ]
